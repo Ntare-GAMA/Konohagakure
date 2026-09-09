@@ -2,7 +2,6 @@
 
 A Unity project built for the **Interactive Character Experience System** assignment: an interactive scene combining animated, interaction-driven characters, a full UI flow, and a checkpoint-based training course.
 
-> ⚠️ **Before you use this README:** it's reconstructed from your chat history with Claude, since the previous Readme/Videoscript files weren't recoverable from the saved conversation export. Skim it against your actual project and correct anything that's drifted (especially the "Known Issues" section below — confirm which of these are actually fixed before you rely on this).
 
 ---
 
@@ -126,4 +125,4 @@ These were open at the end of the last debugging session — check each before y
 
 ## Assignment Context
 
-This project was built for the **Interactive Character Experience System** assessment (30 points), evaluating the ability to design and implement an interactive Unity experience combining animated characters, an interaction-driven state machine, and a UI flow — submitted as a video demo by the Friday deadline.
+This project was built for the **Interactive Character Experience System** assessment , evaluating the ability to design and implement an interactive Unity experience combining animated characters, an interaction-driven state machine, and a UI flow.
